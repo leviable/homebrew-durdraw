@@ -1,5 +1,7 @@
 # Leviable Durdraw
 
+Homebrew formula for installing [durdraw](https://github.com/cmang/durdraw)
+
 ## How do I install these formulae?
 
 `brew install leviable/durdraw/<formula>`
